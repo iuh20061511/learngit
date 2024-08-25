@@ -1,3 +1,3 @@
 <?php
 
-echo "index.php 1234";
+echo "index.php learn git 2";
